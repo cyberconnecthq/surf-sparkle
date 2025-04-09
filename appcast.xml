@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>cryptogpt</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Wed, 09 Apr 2025 13:47:35 +0800</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/cyberconnecthq/surf-sparkle/releases/download/1.0(11)/cryptogpt.zip" length="3212933" type="application/octet-stream" sparkle:edSignature="4sUkgKzfVeFmOJVZKbT3mLWLpdWZ4zpKEAhYXQPe6HIyGUg13bANM5v+mF5113oO2Y3k90uSr7nHQxNDitQxBA=="/>
+        </item>
+    </channel>
+</rss>
