@@ -4,11 +4,11 @@
         <title>cryptogpt</title>
         <item>
             <title>1.0</title>
-            <pubDate>Thu, 17 Apr 2025 17:47:26 +0800</pubDate>
-            <sparkle:version>26</sparkle:version>
+            <pubDate>Fri, 18 Apr 2025 11:44:24 +0800</pubDate>
+            <sparkle:version>27</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/cyberconnecthq/surf-sparkle/releases/download/1.0(26)/cryptogpt.zip" length="4941193" type="application/octet-stream" sparkle:edSignature="fRCTEv8XJtCP5Ui/28vuqF4+Kh+mUPgb1EmwytyffKjw05+NXd/gN5BdFCbhbjdHjHgAo7g/rDCG0cIqOQ01CA=="/>
+            <enclosure url="https://github.com/cyberconnecthq/surf-sparkle/releases/download/1.0(27)/cryptogpt.zip" length="4941688" type="application/octet-stream" sparkle:edSignature="gLFdY2qjGj7PXkuoATZgNbAyam60mrNCh+T1cEPouUvhRolbP6WSOcFBKgMF4chcTdE3N3WjFU8avWzW1l5rCQ=="/>
         </item>
     </channel>
 </rss>
