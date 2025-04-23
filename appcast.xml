@@ -1,14 +1,15 @@
-<?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:ns0="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>cryptogpt</title>
+        <title>Surf</title>
         <item>
-            <title>1.0</title>
-            <pubDate>Tue, 22 Apr 2025 18:18:17 +0800</pubDate>
-            <ns0:version>33</ns0:version>
-            <ns0:shortVersionString>1.0</ns0:shortVersionString>
-            <ns0:minimumSystemVersion>14.2</ns0:minimumSystemVersion>
-            <enclosure url="https://github.com/cyberconnecthq/surf-sparkle/releases/download/v1.0-33/cryptogpt.zip" length="4947764" type="application/octet-stream" ns0:edSignature="hOCNapU1BuWaXh1VDcSNgKA02cr8YdDYXwDzic5ulalDOyvsh3spjNtdMXgc1Lb+lJ3e8rCxUFfvDS92DadtCA==" />
+            <title>1.0.1</title>
+            <pubDate>Wed, 23 Apr 2025 16:25:07 +0800</pubDate>
+            <sparkle:version>35</sparkle:version>
+		<sparkle:criticalUpdate />
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/cyberconnecthq/surf-sparkle/releases/download/v1.0.1-35/Surf.zip" length="8163027" type="application/octet-stream" sparkle:edSignature="k1ve93lyCyYCu/YN5DGn0lHl94Dv9wEF0HPXOKviIJtxCkYOFr2iUWYgqKNEHTyrHigPm23Nftj1ypjbyBJ1Cg=="/>
         </item>
     </channel>
 </rss>
