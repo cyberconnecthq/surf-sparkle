@@ -3,12 +3,13 @@
     <channel>
         <title>Surf</title>
         <item>
-            <title>0.1.4</title>
-            <pubDate>Fri, 16 May 2025 10:32:28 +0800</pubDate>
-            <sparkle:version>77</sparkle:version>
-            <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
+            <title>0.1.5</title>
+            <pubDate>Fri, 16 May 2025 15:31:44 +0800</pubDate>
+            <sparkle:version>78</sparkle:version>
+		<sparkle:criticalUpdate />
+            <sparkle:shortVersionString>0.1.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/cyberconnecthq/surf-sparkle/releases/download/v0.1.4/Surf.zip" length="10330885" type="application/octet-stream" sparkle:edSignature="PCokW4Sq0ZHecOI1slPy4G3PJRaMdpXDGydKkBCeJdUqpbNhPiYOq6ymv1ISFo2bSKoNoqDt5rHnga1xKAzBCw=="/>
+            <enclosure url="https://github.com/cyberconnecthq/surf-sparkle/releases/download/v0.1.5/Surf.zip" length="10318490" type="application/octet-stream" sparkle:edSignature="+JoTXH3J/WTJHQr+Zh5qZlfHr7u85gXgQiX00KrbMJmWztEihtFV6pN4k04008UnGSuPy+1hbp5BZkuTny8WAw=="/>
         </item>
     </channel>
 </rss>
